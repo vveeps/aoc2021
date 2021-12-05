@@ -1,4 +1,4 @@
-with open("inputs/day1.txt", "r") as f:
+with open("inputs/day1", "r") as f:
     lines = f.read().splitlines()
 
 count = 0
