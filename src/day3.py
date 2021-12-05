@@ -42,8 +42,6 @@ def part2():
                 co2_candidates
             ))
 
-    print(f"{o2_candidates = }")
-    print(f"{co2_candidates = }")
     return int(o2_candidates[0], 2) * int(co2_candidates[0], 2)
 
 
